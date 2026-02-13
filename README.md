@@ -90,7 +90,7 @@ This dashboard helps HR teams track key metrics and make data-driven decisions.
 
 ##  Dashboard Preview
 
-![HR Dashboard](dashboard.png)
+![HR Dashboard](dashboard.png.png)
 
 ---
 
